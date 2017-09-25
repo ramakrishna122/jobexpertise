@@ -46,8 +46,8 @@ body{
 <hr>
  
   <a href="givereview.jsp" target="_blank">GIVE REVIEW</a>
-  <a href="reg.jsp" target="_blank">registration</a>
-  <a href="login.jsp" target="_blank">login</a>
+  <a href="reg.jsp" target="_blank">REGISTRATION</a>
+  <a href="login.jsp" target="_blank">LOGIN</a>
   <a href="know.jsp" target="_blank">KNOW EXPERIENCE</a>
   <hr>
 <footer>
@@ -55,6 +55,8 @@ body{
 <body align="center">
 <pre>
 <h1>FOR ANY INFORMATION PING BELOW CONTACT</h1>
+<h3>Name:Ramkrishna<br>
+Contact no:9059230581</h3>
 
 </pre>
 </body>

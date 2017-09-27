@@ -41,7 +41,7 @@ body{
 </head>
 <body>
 <header>
-<center><h1>my website</h1></center>
+<center><h1>Job expertise</h1></center>
 </header>
 <hr>
  
@@ -50,14 +50,10 @@ body{
   <a href="login.jsp" target="_blank">LOGIN</a>
   <a href="know.jsp" target="_blank">KNOW EXPERIENCE</a>
   <hr>
-<footer>
 
 <body align="center">
-<pre>
 <h1>FOR ANY INFORMATION PING BELOW CONTACT</h1>
 <h3>Name:Ramkrishna<br>
 Contact no:9059230581</h3>
-
-</pre>
 </body>
 </html>
